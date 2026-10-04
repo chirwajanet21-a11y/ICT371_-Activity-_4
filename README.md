@@ -4,7 +4,12 @@ PostgreSQL Scenario assignment
 This repository contains my SQL scripts for ICT371.
 
 ## Files
-- `activity4.sql` - PL/pgSQL Scenarios
+- `scenario_2_202106055.sql` - Scenario 2
+- `scenario_4_202106055.sql` - Scenario 4
+- `scenario_5_202106055.sql` - Scenario 5
+- `Scenario_6_202106055.sql` - Scenario 6
+
+
 
 ## How to run
 1. Open pgAdmin 4
