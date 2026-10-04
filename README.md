@@ -18,8 +18,10 @@ This repository contains my SQL scripts for ICT371.
 4. Open the .sql file and run
 
 ## Student Details
-Name: [CHIRWAJANET]
-Student Number: [202106055]
+Name: CHIRWAJANET
+
+Student Number: 202106055
+
 Course: ICT371
 
 PostgreSQL 17
